@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1715
+
 codigo = int(input())
 valor_compra = float(input())
 

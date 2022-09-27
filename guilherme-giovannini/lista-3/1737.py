@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1737
+
 quantidade_numeros = int(input())
 total = 0
 

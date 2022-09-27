@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761
+
 final = False
 valor_compra = 0
 

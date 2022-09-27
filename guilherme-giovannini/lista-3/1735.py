@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1735
+
 contagem_inicial = int(input())
 contagem_final = int(input())
 

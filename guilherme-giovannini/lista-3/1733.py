@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1733
+
 nome = input()
 hr_ext_trab = float(input())
 

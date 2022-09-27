@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1713
+
 valor = float(input())
 horas = float(input())
 salario = valor * horas

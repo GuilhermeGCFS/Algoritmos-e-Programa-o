@@ -1,3 +1,6 @@
+# URL do enunciado
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759
+
 anoAtual = int(input())
 salarioBase = 1000.00
 aumentoBase = 0.015
@@ -12,4 +15,4 @@ else:
         for anoBase in range(2007, anoAtual + 1):
             aumentoBase += 0.010
             salarioAtual = salarioAtual + (salarioAtual * aumentoBase)
-    print(f"Salário atual: R${salarioAtual}", end="\n")
+    print("Salário atual: R$%.2f" %salarioAtual, end="\n")
