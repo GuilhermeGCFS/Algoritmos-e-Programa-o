@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/en/custom-problems/view/1733
 salarioMinimo = 1192.40
 valorHrExtra = 10.00
 

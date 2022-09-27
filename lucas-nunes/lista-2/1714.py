@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/en/custom-problems/view/1014
 valorCompra = float(input())
 
 if valorCompra < 20.00:

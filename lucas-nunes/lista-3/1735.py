@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/en/custom-problems/view/1735
 qtdNumeros = int(input())
 
 contador = 0
