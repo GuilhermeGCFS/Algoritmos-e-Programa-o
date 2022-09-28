@@ -11,6 +11,7 @@ for x in range(4):
         quantidade_pessoas += 1;
     soma += idade
 
-print("Qtd pessoas > 90 Kg: %.2f" %quantidade_pessoas, end="\n")
 media = soma / 4
+
+print("Qtd pessoas > 90 Kg: %i" %quantidade_pessoas, end="\n")
 print("Idade média: %.2f" %media, end="\n")

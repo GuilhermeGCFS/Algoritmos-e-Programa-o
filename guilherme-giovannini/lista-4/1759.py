@@ -1,18 +1,18 @@
 # URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759
 
-anoAtual = int(input())
-salarioBase = 1000.00
-aumentoBase = 0.015
-anoBase = 2007
-if (anoAtual < 2006):
-    print("o ano informado deverá ser  2005!", end="\n")
+ano_atual = int(input())
+salario_base = 1000.00
+aumento_base = 0.015
+ano_inicial = 2007
+if (ano_atual < 2006):
+    print("O ano informado deverá ser  2005!", end='\n')
 else:
-    if (anoAtual == 2006):
-        salarioAtual = salarioBase + (salarioBase * aumentoBase)
+    if (ano_atual == 2006):
+        salarioAtual = salario_base + (salario_base * aumento_base)
     else:
-        salarioAtual = salarioBase + (salarioBase * aumentoBase)
-        for anoBase in range(2007, anoAtual + 1):
-            aumentoBase += 0.010
-            salarioAtual = salarioAtual + (salarioAtual * aumentoBase)
-    print("Salário atual: R$%.2f" %salarioAtual, end="\n")
+        salarioAtual = salario_base + (salario_base * aumento_base)
+        for ano_inicial in range(2007, ano_atual + 1):
+            aumento_base += 0.010
+            salarioAtual = salarioAtual + (salarioAtual * aumento_base)
+    print("Salário atual: R$%.2f" %salarioAtual, end='\n')
