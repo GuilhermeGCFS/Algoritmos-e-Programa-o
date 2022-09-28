@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/en/custom-problems/view/1760
 fim = False;
 valorCompra = 0;
 while fim != True:
