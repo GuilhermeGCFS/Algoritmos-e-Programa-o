@@ -1,3 +1,6 @@
+# URL do enunciado
+
+# https://www.beecrowd.com.br/judge/en/custom-problems/view/1759
 anoAtual = int(input());
 salarioBase = 1000.00;
 aumentoBase = 0.015;
